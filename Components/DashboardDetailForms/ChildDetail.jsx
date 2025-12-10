@@ -1072,7 +1072,7 @@ const FeeShcedule = ({ patientData }) => {
                   <li>Accommodation Letter</li>
                 </ul>
               </td>
-              <td>$30</td>
+              <td>$50</td>
             </tr>
             <tr>
               <td>

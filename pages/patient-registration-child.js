@@ -4578,7 +4578,7 @@ const Child = () => {
                     <div className="w-2 h-2 bg-black mt-2 rounded-full shrink-0"></div>
                     <p className="md:text-base ">Accommodation Letter</p>
                   </div>
-                  <p className="md:text-base font-medium pl-5 md:pl-0">$30</p>
+                  <p className="md:text-base font-medium pl-5 md:pl-0">$50</p>
                 </div>
                 <div className="flex flex-col md:flex-row gap-1 md:justify-between mb-4">
                   <div className="flex gap-4 ">
