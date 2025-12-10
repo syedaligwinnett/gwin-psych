@@ -1059,7 +1059,7 @@ const FeeShcedule = ({ patientData }) => {
                   </li>
                 </ul>
               </td>
-              <td>$50 per letter</td>
+              <td>$100 per letter</td>
             </tr>
           </tbody>
         </table>

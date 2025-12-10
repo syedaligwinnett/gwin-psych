@@ -4510,7 +4510,7 @@ const Adult = () => {
                     </p>
                   </div>
                   <p className="md:text-base font-medium pl-5 md:pl-0">
-                    $50 per letter
+                    $100 per letter
                   </p>
                 </div>
                 <p className="md:text-base mb-4 md:mb-6">
