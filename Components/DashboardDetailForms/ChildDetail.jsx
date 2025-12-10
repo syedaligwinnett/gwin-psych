@@ -1088,7 +1088,7 @@ const FeeShcedule = ({ patientData }) => {
                   <li>Homebound Forms</li>
                 </ul>
               </td>
-              <td>$50</td>
+              <td>$75</td>
             </tr>
             <tr>
               <td>
